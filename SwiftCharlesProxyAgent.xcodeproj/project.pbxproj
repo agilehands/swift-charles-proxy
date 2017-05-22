@@ -7,9 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		070412CE1ED310DC00A068C6 /* Session+Entry+Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34FA1ECF3DF600B5F218 /* Session+Entry+Filter.swift */; };
+		070412CF1ED310ED00A068C6 /* EntryFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23111ECF2D1A0062BE2D /* EntryFilter.swift */; };
+		070412D01ED3110E00A068C6 /* String+Subscript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB349C1EC4B67C008390A5 /* String+Subscript.swift */; };
+		070412D11ED3110E00A068C6 /* BaseURLFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34F71ECF3D9900B5F218 /* BaseURLFilter.swift */; };
+		070412D21ED3110E00A068C6 /* QueryFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34FD1ECF430F00B5F218 /* QueryFilter.swift */; };
+		070412D31ED3110E00A068C6 /* RequestHeaderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35001ECF4CDB00B5F218 /* RequestHeaderFilter.swift */; };
+		070412D41ED3110E00A068C6 /* ResponseHeaderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35031ECF4FC700B5F218 /* ResponseHeaderFilter.swift */; };
+		070412D51ED3110E00A068C6 /* ResponseStatusCodeFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35061ECF500300B5F218 /* ResponseStatusCodeFilter.swift */; };
+		070412D61ED3112100A068C6 /* CharlesProxyAgent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB34941EC46F48008390A5 /* CharlesProxyAgent.swift */; };
+		070412D71ED3112100A068C6 /* CharlesProxyAgent+Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0761C3871ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift */; };
+		070412D81ED3112100A068C6 /* CharlesProxyWebInterfaceEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0761C3831ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift */; };
+		070412D91ED3112100A068C6 /* CharlesProxyAgentError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB349A1EC4AD40008390A5 /* CharlesProxyAgentError.swift */; };
+		070412DA1ED3112100A068C6 /* CharlesProxyAgentCallbackChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB34971EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift */; };
+		072429FD1ECCFEE80016F511 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072429FC1ECCFEE80016F511 /* Session.swift */; };
+		072429FE1ECCFEE80016F511 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072429FC1ECCFEE80016F511 /* Session.swift */; };
+		07242A011ECCFFDB0016F511 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A001ECCFFDB0016F511 /* Entry.swift */; };
+		07242A021ECCFFDB0016F511 /* Entry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A001ECCFFDB0016F511 /* Entry.swift */; };
+		07242A041ECD00910016F511 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A031ECD00910016F511 /* Request.swift */; };
+		07242A051ECD00910016F511 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A031ECD00910016F511 /* Request.swift */; };
+		07242A071ECD00990016F511 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A061ECD00990016F511 /* Response.swift */; };
+		07242A081ECD00990016F511 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A061ECD00990016F511 /* Response.swift */; };
+		07242A0A1ECD00B50016F511 /* Timings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A091ECD00B50016F511 /* Timings.swift */; };
+		07242A0B1ECD00B50016F511 /* Timings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07242A091ECD00B50016F511 /* Timings.swift */; };
+		0761C3811ECB2DA600A10634 /* CallbackChainTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0761C3801ECB2DA600A10634 /* CallbackChainTest.swift */; };
+		0761C3841ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0761C3831ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift */; };
+		0761C3881ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0761C3871ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift */; };
+		076A34F61ECF39A300B5F218 /* FilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34F51ECF39A300B5F218 /* FilterTests.swift */; };
+		076A34F81ECF3D9900B5F218 /* BaseURLFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34F71ECF3D9900B5F218 /* BaseURLFilter.swift */; };
+		076A34FB1ECF3DF600B5F218 /* Session+Entry+Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34FA1ECF3DF600B5F218 /* Session+Entry+Filter.swift */; };
+		076A34FE1ECF430F00B5F218 /* QueryFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A34FD1ECF430F00B5F218 /* QueryFilter.swift */; };
+		076A35011ECF4CDB00B5F218 /* RequestHeaderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35001ECF4CDB00B5F218 /* RequestHeaderFilter.swift */; };
+		076A35041ECF4FC700B5F218 /* ResponseHeaderFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35031ECF4FC700B5F218 /* ResponseHeaderFilter.swift */; };
+		076A35071ECF500300B5F218 /* ResponseStatusCodeFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A35061ECF500300B5F218 /* ResponseStatusCodeFilter.swift */; };
+		076A350A1ECF521300B5F218 /* charles201705191817.har in Resources */ = {isa = PBXBuildFile; fileRef = 076A35091ECF521300B5F218 /* charles201705191817.har */; };
+		076A350D1ECF540F00B5F218 /* charles201705191817.har in Resources */ = {isa = PBXBuildFile; fileRef = 076A35091ECF521300B5F218 /* charles201705191817.har */; };
+		079B23011ECDC14A0062BE2D /* Session+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23001ECDC14A0062BE2D /* Session+Initializer+JSON.swift */; };
+		079B23021ECDC14A0062BE2D /* Session+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23001ECDC14A0062BE2D /* Session+Initializer+JSON.swift */; };
+		079B23041ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23031ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift */; };
+		079B23051ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23031ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift */; };
+		079B23081ECF22600062BE2D /* Timings+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23071ECF22600062BE2D /* Timings+Initializer+JSON.swift */; };
+		079B23091ECF22600062BE2D /* Timings+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23071ECF22600062BE2D /* Timings+Initializer+JSON.swift */; };
+		079B230B1ECF23A40062BE2D /* Request+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B230A1ECF23A40062BE2D /* Request+Initializer+JSON.swift */; };
+		079B230C1ECF23A40062BE2D /* Request+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B230A1ECF23A40062BE2D /* Request+Initializer+JSON.swift */; };
+		079B230E1ECF2A630062BE2D /* Response+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B230D1ECF2A630062BE2D /* Response+Initializer+JSON.swift */; };
+		079B230F1ECF2A630062BE2D /* Response+Initializer+JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B230D1ECF2A630062BE2D /* Response+Initializer+JSON.swift */; };
+		079B23121ECF2D1A0062BE2D /* EntryFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079B23111ECF2D1A0062BE2D /* EntryFilter.swift */; };
 		07CB34841EC46EE3008390A5 /* SwiftCharlesProxyAgent.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07CB347A1EC46EE3008390A5 /* SwiftCharlesProxyAgent.framework */; };
 		07CB34891EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB34881EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.swift */; };
 		07CB348B1EC46EE3008390A5 /* SwiftCharlesProxyAgent.h in Headers */ = {isa = PBXBuildFile; fileRef = 07CB347D1EC46EE3008390A5 /* SwiftCharlesProxyAgent.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		07CB34951EC46F48008390A5 /* CharlesProxyAgent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB34941EC46F48008390A5 /* CharlesProxyAgent.swift */; };
+		07CB34981EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB34971EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift */; };
+		07CB349B1EC4AD40008390A5 /* CharlesProxyAgentError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB349A1EC4AD40008390A5 /* CharlesProxyAgentError.swift */; };
+		07CB349D1EC4B67C008390A5 /* String+Subscript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07CB349C1EC4B67C008390A5 /* String+Subscript.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,12 +73,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		072429FC1ECCFEE80016F511 /* Session.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Session.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		07242A001ECCFFDB0016F511 /* Entry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Entry.swift; sourceTree = "<group>"; };
+		07242A031ECD00910016F511 /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
+		07242A061ECD00990016F511 /* Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		07242A091ECD00B50016F511 /* Timings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timings.swift; sourceTree = "<group>"; };
+		0761C3801ECB2DA600A10634 /* CallbackChainTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CallbackChainTest.swift; sourceTree = "<group>"; };
+		0761C3831ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharlesProxyWebInterfaceEndpoint.swift; sourceTree = "<group>"; };
+		0761C3871ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CharlesProxyAgent+Networking.swift"; sourceTree = "<group>"; };
+		076A34F51ECF39A300B5F218 /* FilterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterTests.swift; sourceTree = "<group>"; };
+		076A34F71ECF3D9900B5F218 /* BaseURLFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseURLFilter.swift; sourceTree = "<group>"; };
+		076A34FA1ECF3DF600B5F218 /* Session+Entry+Filter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Session+Entry+Filter.swift"; sourceTree = "<group>"; };
+		076A34FD1ECF430F00B5F218 /* QueryFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QueryFilter.swift; sourceTree = "<group>"; };
+		076A35001ECF4CDB00B5F218 /* RequestHeaderFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestHeaderFilter.swift; sourceTree = "<group>"; };
+		076A35031ECF4FC700B5F218 /* ResponseHeaderFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseHeaderFilter.swift; sourceTree = "<group>"; };
+		076A35061ECF500300B5F218 /* ResponseStatusCodeFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseStatusCodeFilter.swift; sourceTree = "<group>"; };
+		076A35091ECF521300B5F218 /* charles201705191817.har */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = charles201705191817.har; sourceTree = "<group>"; };
+		079B23001ECDC14A0062BE2D /* Session+Initializer+JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Session+Initializer+JSON.swift"; sourceTree = "<group>"; };
+		079B23031ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Entry+Initializer+JSON.swift"; sourceTree = "<group>"; };
+		079B23071ECF22600062BE2D /* Timings+Initializer+JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Timings+Initializer+JSON.swift"; sourceTree = "<group>"; };
+		079B230A1ECF23A40062BE2D /* Request+Initializer+JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Request+Initializer+JSON.swift"; sourceTree = "<group>"; };
+		079B230D1ECF2A630062BE2D /* Response+Initializer+JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Response+Initializer+JSON.swift"; sourceTree = "<group>"; };
+		079B23111ECF2D1A0062BE2D /* EntryFilter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EntryFilter.swift; sourceTree = "<group>"; };
 		07CB347A1EC46EE3008390A5 /* SwiftCharlesProxyAgent.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftCharlesProxyAgent.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		07CB347D1EC46EE3008390A5 /* SwiftCharlesProxyAgent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftCharlesProxyAgent.h; sourceTree = "<group>"; };
 		07CB347E1EC46EE3008390A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07CB34831EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCharlesProxyAgentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		07CB34881EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCharlesProxyAgentTests.swift; sourceTree = "<group>"; };
 		07CB348A1EC46EE3008390A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07CB34941EC46F48008390A5 /* CharlesProxyAgent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = CharlesProxyAgent.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		07CB34971EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharlesProxyAgentCallbackChain.swift; sourceTree = "<group>"; };
+		07CB349A1EC4AD40008390A5 /* CharlesProxyAgentError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharlesProxyAgentError.swift; sourceTree = "<group>"; };
+		07CB349C1EC4B67C008390A5 /* String+Subscript.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Subscript.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +126,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0704125A1ED2FC6300A068C6 /* utility */ = {
+			isa = PBXGroup;
+			children = (
+				07CB349C1EC4B67C008390A5 /* String+Subscript.swift */,
+			);
+			name = utility;
+			sourceTree = "<group>";
+		};
+		072429FF1ECCFFC30016F511 /* session */ = {
+			isa = PBXGroup;
+			children = (
+				079B22FF1ECDC1260062BE2D /* initializers */,
+				072429FC1ECCFEE80016F511 /* Session.swift */,
+				07242A001ECCFFDB0016F511 /* Entry.swift */,
+				07242A031ECD00910016F511 /* Request.swift */,
+				07242A061ECD00990016F511 /* Response.swift */,
+				07242A091ECD00B50016F511 /* Timings.swift */,
+			);
+			name = session;
+			sourceTree = "<group>";
+		};
+		079B22FF1ECDC1260062BE2D /* initializers */ = {
+			isa = PBXGroup;
+			children = (
+				079B23061ECF22510062BE2D /* json */,
+			);
+			name = initializers;
+			sourceTree = "<group>";
+		};
+		079B23061ECF22510062BE2D /* json */ = {
+			isa = PBXGroup;
+			children = (
+				079B23001ECDC14A0062BE2D /* Session+Initializer+JSON.swift */,
+				079B23031ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift */,
+				079B23071ECF22600062BE2D /* Timings+Initializer+JSON.swift */,
+				079B230A1ECF23A40062BE2D /* Request+Initializer+JSON.swift */,
+				079B230D1ECF2A630062BE2D /* Response+Initializer+JSON.swift */,
+			);
+			name = json;
+			sourceTree = "<group>";
+		};
+		079B23101ECF2CD00062BE2D /* filters */ = {
+			isa = PBXGroup;
+			children = (
+				076A34FA1ECF3DF600B5F218 /* Session+Entry+Filter.swift */,
+				079B23111ECF2D1A0062BE2D /* EntryFilter.swift */,
+				076A34F71ECF3D9900B5F218 /* BaseURLFilter.swift */,
+				076A34FD1ECF430F00B5F218 /* QueryFilter.swift */,
+				076A35001ECF4CDB00B5F218 /* RequestHeaderFilter.swift */,
+				076A35031ECF4FC700B5F218 /* ResponseHeaderFilter.swift */,
+				076A35061ECF500300B5F218 /* ResponseStatusCodeFilter.swift */,
+			);
+			name = filters;
+			sourceTree = "<group>";
+		};
 		07CB34701EC46EE3008390A5 = {
 			isa = PBXGroup;
 			children = (
@@ -71,8 +202,16 @@
 		07CB347C1EC46EE3008390A5 /* SwiftCharlesProxyAgent */ = {
 			isa = PBXGroup;
 			children = (
+				0704125A1ED2FC6300A068C6 /* utility */,
+				079B23101ECF2CD00062BE2D /* filters */,
+				072429FF1ECCFFC30016F511 /* session */,
 				07CB347D1EC46EE3008390A5 /* SwiftCharlesProxyAgent.h */,
 				07CB347E1EC46EE3008390A5 /* Info.plist */,
+				07CB34941EC46F48008390A5 /* CharlesProxyAgent.swift */,
+				0761C3871ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift */,
+				0761C3831ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift */,
+				07CB349A1EC4AD40008390A5 /* CharlesProxyAgentError.swift */,
+				07CB34971EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift */,
 			);
 			path = SwiftCharlesProxyAgent;
 			sourceTree = "<group>";
@@ -81,6 +220,9 @@
 			isa = PBXGroup;
 			children = (
 				07CB34881EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.swift */,
+				076A35091ECF521300B5F218 /* charles201705191817.har */,
+				076A34F51ECF39A300B5F218 /* FilterTests.swift */,
+				0761C3801ECB2DA600A10634 /* CallbackChainTest.swift */,
 				07CB348A1EC46EE3008390A5 /* Info.plist */,
 			);
 			path = SwiftCharlesProxyAgentTests;
@@ -149,6 +291,7 @@
 					07CB34791EC46EE3008390A5 = {
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = Y2YTF6G5RU;
+						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
 					07CB34821EC46EE3008390A5 = {
@@ -181,6 +324,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				076A350D1ECF540F00B5F218 /* charles201705191817.har in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,6 +332,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				076A350A1ECF521300B5F218 /* charles201705191817.har in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +343,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07242A011ECCFFDB0016F511 /* Entry.swift in Sources */,
+				07CB34981EC49C64008390A5 /* CharlesProxyAgentCallbackChain.swift in Sources */,
+				079B23041ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift in Sources */,
+				07CB34951EC46F48008390A5 /* CharlesProxyAgent.swift in Sources */,
+				076A34FB1ECF3DF600B5F218 /* Session+Entry+Filter.swift in Sources */,
+				076A35071ECF500300B5F218 /* ResponseStatusCodeFilter.swift in Sources */,
+				079B23121ECF2D1A0062BE2D /* EntryFilter.swift in Sources */,
+				076A34F81ECF3D9900B5F218 /* BaseURLFilter.swift in Sources */,
+				079B23011ECDC14A0062BE2D /* Session+Initializer+JSON.swift in Sources */,
+				0761C3841ECB446A00A10634 /* CharlesProxyWebInterfaceEndpoint.swift in Sources */,
+				079B230E1ECF2A630062BE2D /* Response+Initializer+JSON.swift in Sources */,
+				07242A071ECD00990016F511 /* Response.swift in Sources */,
+				076A34FE1ECF430F00B5F218 /* QueryFilter.swift in Sources */,
+				079B23081ECF22600062BE2D /* Timings+Initializer+JSON.swift in Sources */,
+				0761C3881ECB4B6200A10634 /* CharlesProxyAgent+Networking.swift in Sources */,
+				076A35041ECF4FC700B5F218 /* ResponseHeaderFilter.swift in Sources */,
+				072429FD1ECCFEE80016F511 /* Session.swift in Sources */,
+				076A35011ECF4CDB00B5F218 /* RequestHeaderFilter.swift in Sources */,
+				07242A0A1ECD00B50016F511 /* Timings.swift in Sources */,
+				07CB349D1EC4B67C008390A5 /* String+Subscript.swift in Sources */,
+				07242A041ECD00910016F511 /* Request.swift in Sources */,
+				07CB349B1EC4AD40008390A5 /* CharlesProxyAgentError.swift in Sources */,
+				079B230B1ECF23A40062BE2D /* Request+Initializer+JSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,7 +373,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				070412D21ED3110E00A068C6 /* QueryFilter.swift in Sources */,
+				070412D61ED3112100A068C6 /* CharlesProxyAgent.swift in Sources */,
+				079B230F1ECF2A630062BE2D /* Response+Initializer+JSON.swift in Sources */,
+				076A34F61ECF39A300B5F218 /* FilterTests.swift in Sources */,
+				070412D01ED3110E00A068C6 /* String+Subscript.swift in Sources */,
+				07242A021ECCFFDB0016F511 /* Entry.swift in Sources */,
+				070412D31ED3110E00A068C6 /* RequestHeaderFilter.swift in Sources */,
+				07242A051ECD00910016F511 /* Request.swift in Sources */,
+				079B23051ECDC2BE0062BE2D /* Entry+Initializer+JSON.swift in Sources */,
+				070412D11ED3110E00A068C6 /* BaseURLFilter.swift in Sources */,
+				079B230C1ECF23A40062BE2D /* Request+Initializer+JSON.swift in Sources */,
 				07CB34891EC46EE3008390A5 /* SwiftCharlesProxyAgentTests.swift in Sources */,
+				07242A081ECD00990016F511 /* Response.swift in Sources */,
+				070412D91ED3112100A068C6 /* CharlesProxyAgentError.swift in Sources */,
+				07242A0B1ECD00B50016F511 /* Timings.swift in Sources */,
+				072429FE1ECCFEE80016F511 /* Session.swift in Sources */,
+				070412CF1ED310ED00A068C6 /* EntryFilter.swift in Sources */,
+				0761C3811ECB2DA600A10634 /* CallbackChainTest.swift in Sources */,
+				070412DA1ED3112100A068C6 /* CharlesProxyAgentCallbackChain.swift in Sources */,
+				079B23021ECDC14A0062BE2D /* Session+Initializer+JSON.swift in Sources */,
+				070412D71ED3112100A068C6 /* CharlesProxyAgent+Networking.swift in Sources */,
+				070412CE1ED310DC00A068C6 /* Session+Entry+Filter.swift in Sources */,
+				079B23091ECF22600062BE2D /* Timings+Initializer+JSON.swift in Sources */,
+				070412D81ED3112100A068C6 /* CharlesProxyWebInterfaceEndpoint.swift in Sources */,
+				070412D41ED3110E00A068C6 /* ResponseHeaderFilter.swift in Sources */,
+				070412D51ED3110E00A068C6 /* ResponseStatusCodeFilter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,6 +517,7 @@
 		07CB348F1EC46EE3008390A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = Y2YTF6G5RU;
@@ -332,10 +526,13 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = SwiftCharlesProxyAgent/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aman.SwiftCharlesProxyAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -343,6 +540,7 @@
 		07CB34901EC46EE3008390A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = Y2YTF6G5RU;
@@ -351,6 +549,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = SwiftCharlesProxyAgent/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aman.SwiftCharlesProxyAgent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -362,6 +561,7 @@
 		07CB34921EC46EE3008390A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = Y2YTF6G5RU;
 				INFOPLIST_FILE = SwiftCharlesProxyAgentTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -374,6 +574,7 @@
 		07CB34931EC46EE3008390A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = Y2YTF6G5RU;
 				INFOPLIST_FILE = SwiftCharlesProxyAgentTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -402,6 +603,7 @@
 				07CB34901EC46EE3008390A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07CB34911EC46EE3008390A5 /* Build configuration list for PBXNativeTarget "SwiftCharlesProxyAgentTests" */ = {
 			isa = XCConfigurationList;
@@ -410,6 +612,7 @@
 				07CB34931EC46EE3008390A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
