@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+            timestampString = "516904330.564092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "downloadSession(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.CharlesProxyAgent.(downloadSession ((Swift.Optional&lt;SwiftCharlesProxyAgentTests.Session&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+                  timestampString = "516904500.252273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.CharlesProxyAgent.(downloadSession ((Swift.Optional&lt;SwiftCharlesProxyAgent.Session&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+                  timestampString = "516904500.265779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+            timestampString = "516904330.564092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "downloadSession(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.CharlesProxyAgent.(downloadSession ((Swift.Optional&lt;SwiftCharlesProxyAgentTests.Session&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+                  timestampString = "516904500.255582"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1857">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.CharlesProxyAgent.(downloadSession ((Swift.Optional&lt;SwiftCharlesProxyAgent.Session&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/CharlesProxyAgent.swift"
+                  timestampString = "516904500.268065"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1857">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+            timestampString = "517143348.186431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgentTests.Request"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.295722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "3460">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgent.Request"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.341239"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "3460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+            timestampString = "517143079.710723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgentTests.Request"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.303409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgent.Request"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.346615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+            timestampString = "517143108.85742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgentTests.Request"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.3103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2411">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.Request.(init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgentTests.Request).(implicit closure #1)"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.31342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgent.Request"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.356913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2411">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.Request.(init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgent.Request).(implicit closure #1)"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143350.360603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+            timestampString = "517143375.461361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(json:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgentTests.Request"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143375.468985"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "3394">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.Request.init (json : Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;) -&gt; SwiftCharlesProxyAgent.Request"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/Request+Initializer+JSON.swift"
+                  timestampString = "517143375.474883"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "3394">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/RequestHeaderFilter.swift"
+            timestampString = "517143451.630064"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "matches(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgentTests.RequestHeaderFilter.matches (SwiftCharlesProxyAgentTests.Entry) -&gt; Swift.Bool"
+                  moduleName = "SwiftCharlesProxyAgentTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/RequestHeaderFilter.swift"
+                  timestampString = "517143569.139021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2758">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftCharlesProxyAgent.RequestHeaderFilter.matches (SwiftCharlesProxyAgent.Entry) -&gt; Swift.Bool"
+                  moduleName = "SwiftCharlesProxyAgent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aman/work/xapplab/SwiftCharlesProxyAgent/SwiftCharlesProxyAgent/RequestHeaderFilter.swift"
+                  timestampString = "517143569.169174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2758">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftCharlesProxyAgent/QueryFilter.swift"
+            timestampString = "517149024.086197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "QueryFilter"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
