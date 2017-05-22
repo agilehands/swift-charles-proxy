@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>CharlesUniversal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>SwiftCharlesProxyAgent.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>070412A91ED309E300A068C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>07CB34791EC46EE3008390A5</key>
 		<dict>
 			<key>primary</key>
